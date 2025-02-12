@@ -183,7 +183,7 @@ h2{
     display: flex;
   flex-wrap: wrap;
   justify-content: center; /* Centers images dynamically */
-  gap: 10px; /* Space between images */
+  gap: 10px 5px; /* Space between images */
   padding: 15px; /* Add padding for spacing */
 }
 
